@@ -1,15 +1,8 @@
 ## Hi there 👋
 
-<!--
-**LinaMMA20/LinaMMA20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lina Malaver Atara
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on becoming a Data Analyst 
-- 🌱 I’m currently learning Predictions on Python
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about work
+- 🔭 I’m currently working on becoming a Data Analyst
 - 📫 How to reach me: linamalaveratara@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm an F1 fan, I would like to get a job on the F1 one day-->
+- 🌱 I’m currently learning Predictions on Python
+- ⚡ Fun fact: I'm an F1 fan, and I would like to get a job in F1 one day
